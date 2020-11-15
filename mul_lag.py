@@ -1,7 +1,7 @@
 from sage.all import *
 
 # necessary information:
-# the size of field
+# q: the size of field
 # F: GF(q)
 # R: polynomial ring over F
 # H: the value that x can be
